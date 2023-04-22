@@ -36,3 +36,7 @@ Contents of .env file:
 	TMDB_API_KEY=None
 
 Replace         None with your values
+
+
+YouTube Channel :- https://www.youtube.com/channel/UCgu9qbRDhr98gUrRMhvHRLQ
+
