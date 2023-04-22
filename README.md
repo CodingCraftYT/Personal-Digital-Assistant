@@ -8,16 +8,16 @@ If you're looking for an efficient and reliable tool for automating simple tasks
 
 
 It can help you do following tasks:
-	Search on Wikipedia
-	Search on Google
-	Play YouTube Videos
-	Send WhatsApp Messages
-	Send Emails
-	Get Random Advice Jokes
-	Get Trending Movies
-	Get Latest News Headlines
-	Get Weather Report
-	Open Desktop Application such as Calculator, Google, Notepad, Camera, Command Prompt etc.
+	1. Search on Wikipedia
+	2. Search on Google
+	3. Play YouTube Videos
+	4. Send WhatsApp Messages
+	5. Send Emails
+	6. Get Random Advice Jokes
+	7. Get Trending Movies
+	8. Get Latest News Headlines
+	9. Get Weather Report
+	10. Open Desktop Application such as Calculator, Google, Notepad, Camera, Command Prompt etc.
 
 NEWS_API_KEY :- https://newsapi.org/
 
