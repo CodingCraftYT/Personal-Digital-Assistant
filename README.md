@@ -21,3 +21,5 @@ Contents of .env file:
 	NEWS_API_KEY=None
 	OPENWEATHER_APP_ID=None
 	TMDB_API_KEY=None
+
+Replace         None with your values
