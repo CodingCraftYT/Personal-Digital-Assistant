@@ -6,6 +6,19 @@ Built with Python and using external libraries such as Speech Recognition and py
 
 If you're looking for an efficient and reliable tool for automating simple tasks, then Virtual Assistant is the perfect choice. Simply download the code and follow the installation instructions to get started. We welcome feedback and contributions from the community, so please don't hesitate to reach out to us with any suggestions or ideas.
 
+
+It can help you do following tasks:
+	1. Search on Wikipedia
+	2. Search on Google
+	3. Play YouTube Videos
+	4. Send WhatsApp Messages
+	5. Send Emails
+	6. Get Random Advice Jokes
+	7. Get Trending Movies
+	8. Get Latest News Headlines
+	9. Get Weather Report
+	10. Open Desktop Application such as Calculator, Google, Notepad, Camera, Command Prompt etc.
+
 NEWS_API_KEY :- https://newsapi.org/
 
 OPENWEATHER_APP_ID :- https://openweathermap.org/
