@@ -1,4 +1,4 @@
-# Simple-CLI-Assistant
+# Personal Digital Assistant
 
 Virtual Assistant is a Python-based project designed to perform simple tasks such as searching, retrieving information from Wikipedia, opening desktop and system applications, and more. This command-line interface tool is flexible and easy to customize according to your needs. It provides a convenient and efficient way to perform basic tasks without the need to manually execute multiple commands.
 
